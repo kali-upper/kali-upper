@@ -7,7 +7,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-<div align="left">
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
@@ -30,7 +30,7 @@
 ---
 
 ## 🌐 Connect with me  
-<div align="left">
+<div align="right">
   <a href="https://linkedin.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" /></a>
   <a href="https://x.com/AHME0016K" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="Twitter" /></a>
   <a href="https://www.youtube.com/@FOTETUBE" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" /></a>
@@ -42,12 +42,12 @@
 
 ---
 
-<img align="center" height="200" src="https://media.tenor.com/n53f5g-plM0AAAAj/emo.gif" />
+<img align="right" height="200" src="https://media.tenor.com/n53f5g-plM0AAAAj/emo.gif" />
 
 ---
 
 ## 📊 GitHub Stats  
-<div align="left">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=kali-upper&show_icons=true&theme=radical&count_private=true" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kali-upper&layout=compact&theme=tokyonight" height="150" alt="Top languages" />
 </div>
@@ -55,6 +55,6 @@
 ---
 
 ## 👀 Visitors  
-<div align="center">
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=kali-upper&label=Profile%20Views&color=0e75b6&style=flat" />
 </div>
