@@ -2,6 +2,8 @@
 
 > *"Frontend Developer | Passionate about Web"*
 
+🎓 I'm a **1st year student** at **Faculty of Computers & Artificial Intelligence - Sphinx University**
+
 ---
 
 ## 🛠️ Tech Stack  
