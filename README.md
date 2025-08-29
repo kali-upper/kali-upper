@@ -2,7 +2,7 @@
 
 > *"Frontend Developer | Passionate about Web"*
 
-🎓 I'm a **1st year student** at **Faculty of Computers & Artificial Intelligence - Sphinx University**
+🎓 I'm a **1st year student** at **Faculty of Computers & Artificial Intelligence – Sphinx University**
 
 ---
 
@@ -34,7 +34,7 @@
 
 ---
 
-<img align="center" height="200" src="https://media.tenor.com/oQANo3BrSGcAAAAC/hacker.gif" />
+<img align="center" height="200" src="https://tenor.com/bA4ei.gif" />
 
 ---
 
