@@ -1,7 +1,7 @@
 # 👨‍💻 Ahmed (kali-upper)
 
 <div align="center">
-  <img src="https://c.tenor.com/bA4ei.gif" width="150" height="150" alt="Online GIF Example" />
+  <img src="https://media.tenor.com/n53f5g-plM0AAAAj/emo.gif" width="150" height="150" alt="Working Tenor GIF" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 ## 🎓 About Me
 
-🎯 **Frontend Developer** passionate about creating engaging web experiences  
+🎯 **Frontend Developer** passionate about creating engaging web experiences   
 📚 **1st Year Student** at Faculty of Computers & Artificial Intelligence - Sphinx University  
 🌟 Currently exploring the fascinating world of web development and AI  
 💡 Always eager to learn new technologies and improve my skills
