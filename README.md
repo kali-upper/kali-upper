@@ -1,7 +1,7 @@
 # 👨‍💻 Ahmed (kali-upper)
 
 <div align="center">
-  <img src="https://tenor.com/bA4ei.gif" width="150" height="150" alt="Robot with headphones" />
+  <img src="https://c.tenor.com/bA4ei.gif" width="150" height="150" alt="Online GIF Example" />
 </div>
 
 <div align="center">
@@ -26,16 +26,19 @@
 ## 🛠️ Tech Arsenal
 
 ### 💻 Languages & Frameworks
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,html,css" alt="Languages & Frameworks" />
 </p>
 
 ### 🎨 Styling & Design
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,sass,figma" alt="Styling & Design" />
 </p>
 
 ### ⚙️ Tools & Technologies
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode,npm" alt="Tools & Technologies" />
 </p>
