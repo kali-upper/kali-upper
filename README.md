@@ -16,7 +16,7 @@
 
 ## 🎓 About Me
 
-🎯 **Frontend Developer** passionate about creating engaging web experiences   
+🎯 **Frontend Developer** passionate about creating engaging web experiences  
 📚 **1st Year Student** at Faculty of Computers & Artificial Intelligence - Sphinx University  
 🌟 Currently exploring the fascinating world of web development and AI  
 💡 Always eager to learn new technologies and improve my skills
@@ -55,14 +55,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=kali-upper&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kali-upper&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-</p>
 
 ---
 
