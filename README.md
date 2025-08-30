@@ -1,6 +1,10 @@
 # 👨‍💻 Ahmed (kali-upper)
 
 <div align="center">
+  <img src="https://tenor.com/bA4ei.gif" width="150" height="150" alt="Robot with headphones" />
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Web+Development+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
